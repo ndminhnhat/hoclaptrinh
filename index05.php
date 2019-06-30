@@ -41,8 +41,9 @@ echo $tong;
 //$i=1;
 //while($i<=10)
 //{
-  // $i++;
+ 
   //$tong+=$i ;
+ // $i++;
   //}
   //echo $tong;
 
